@@ -1,0 +1,7 @@
+ Flask
+Werkzeug
+matplotlib
+flask_mail
+textblob
+flask_socketio
+stripe
